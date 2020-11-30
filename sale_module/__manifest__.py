@@ -7,9 +7,12 @@
     'website': "http://www.aktivesoftware.com",
     'category': 'Tools',
     'version': '13.0.1.0.0',
-    'depends': ['base'],
+    'depends': ['base', 'sale_management',
+                'sale', ],
     'data': [
         'security/ir.model.access.csv',
+        'views/sale_views.xml',
+        'views/account_move_views.xml',
     ],
     'demo': [
         'demo/demo.xml',
