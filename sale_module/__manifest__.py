@@ -17,6 +17,8 @@
         'views/sale_views.xml',
         'views/account_move_views.xml',
         'views/stock_moves_views.xml',
+        'views/product_product_views.xml',
+        'views/purchase_views.xml',
     ],
     'demo': [
         'demo/demo.xml',
