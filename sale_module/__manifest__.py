@@ -13,7 +13,7 @@
         'security/ir.model.access.csv',
         'views/assets.xml',
         'views/sale_module_js_views.xml',
-        'views/stock_picking_views.xml',
+        'views/stock_views.xml',
         'views/sale_views.xml',
         'views/account_move_views.xml',
         'views/stock_moves_views.xml',
